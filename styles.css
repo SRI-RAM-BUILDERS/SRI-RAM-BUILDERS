@@ -160,7 +160,9 @@ article{
 @media screen and (max-width: 360px){
 .mobile_txt{
     font-size: 13px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serifs
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serifs;
+    -webkit-text-stroke: 0px green ;
+    
 }
 }
 @media screen and (max-width: 342px){
