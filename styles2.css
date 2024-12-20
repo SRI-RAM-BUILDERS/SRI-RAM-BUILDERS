@@ -185,7 +185,7 @@ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         color: blue;
         text-wrap: wrap;
-        -webkit-text-stroke: 1px yellowgreen;
+        -webkit-text-stroke: 0.3px yellowgreen;
     }
 }
 @media screen and (min-width: 600px) {
