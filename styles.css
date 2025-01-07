@@ -127,4 +127,7 @@ article {
     -webkit-text-stroke: 0.1px gold;
     text-align: center;
   }
+  .mob_image{
+        width:65%;
+    }
 }
