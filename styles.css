@@ -130,4 +130,9 @@ article {
   .mob_image{
         width:65%;
     }
+   nav {
+    background-image: linear-gradient(to right, pink, lightyellow);
+    width: 100%;
+    height: 60px;
+  }
 }
